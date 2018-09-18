@@ -1,0 +1,23 @@
+{
+  "name": "educate",
+  "version": "0.0.1",
+  "description": "e-learning webapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmiracle/educate.git"
+  },
+  "author": "Dylan Miracle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmiracle/educate/issues"
+  },
+  "homepage": "https://github.com/dmiracle/educate#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
