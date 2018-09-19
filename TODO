@@ -2,6 +2,7 @@ Product Backlog:
   ☐ Landing Page
   ☐ Course Landing Pages
   Login:
+    Use aws cognito
     ✔ Login Bootstrap Template @done(18-09-18 18:47)
     ☐ Customize Login Page
     ☐ Create Login Functionality
