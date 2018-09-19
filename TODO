@@ -1,7 +1,12 @@
 Product Backlog:
   ☐ Landing Page
-  ☐ Login Page
   ☐ Course Landing Pages
+  Login:
+    ✔ Login Bootstrap Template @done(18-09-18 18:47)
+    ☐ Customize Login Page
+    ☐ Create Login Functionality
+      ☐ Authentication -- who you are
+      ☐ Authorization -- what you can do
   Designer:
     ☐ Add Course
   Teacher:
